@@ -28,7 +28,7 @@
 
 ## Лабораторная работа №1
 ### Установка
-![Меню](https://github.com/eaverkiev/SoftwareEngineering/Тема_1/pic/lab1_1.png)
+![Меню](pic/lab1_1.png)
 
 ## Лабораторная работа №2
 - Текст задания
